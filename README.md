@@ -1,4 +1,4 @@
-# 3月“ChatGPT”相关热门论文-AMiner
+# 3月“ChatGPT”相关热门论文-[AMiner](https://www.aminer.cn?f=g)
 过去的整个三月，可以说是“GPT"的三月，不管是学术圈、工业界人士、媒体、投资者、创业者们都在讨论“GPT”。国外主要是围绕着谷歌、Meta和OpenAI之间的竞争话题，国内则纷纷在讨论谁将会第一个打造中国版“ChatGPT”。
 ### 以下是3月份“ChatGPT"相关的热门论文！(以下综述内容皆有AMiner基于大模型生成，对话可直接点击论文链接）
 #### A Survey of Large Language Models
