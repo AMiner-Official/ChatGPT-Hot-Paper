@@ -1,6 +1,6 @@
 # 3月“ChatGPT”相关热门论文-[AMiner](https://www.aminer.cn?f=g)
 过去的整个三月，可以说是“GPT"的三月，不管是学术圈、工业界人士、媒体、投资者、创业者们都在讨论“GPT”。国外主要是围绕着谷歌、Meta和OpenAI之间的竞争话题，国内则纷纷在讨论谁将会第一个打造中国版“ChatGPT”。
-### 以下是3月份“ChatGPT"相关的热门论文！(以下综述内容皆有AMiner基于大模型生成，对话可直接点击论文链接）
+### 以下是3月份“ChatGPT"相关的热门论文！(以下综述内容皆由AMiner基于大模型生成，对话可直接点击论文链接）
 #### A Survey of Large Language Models
 Wayne Xin Zhao,Kun Zhou,Junyi Li,Tianyi Tang,Xiaolei Wang,Yupeng Hou,Yingqian Min,Beichen Zhang,Junjie Zhang,Zican Dong,Yifan Du,Chen Yang,Yushuo Chen,Zhipeng Chen,Jinhao Jiang,Ruiyang Ren,Yifan Li,Xinyu Tang,Zikang Liu,Peiyu Liu,Jian-Yun Nie,Ji-Rong Wen
 这篇文章是关于大型语言模型（LLMs）的综述。LLMs是由大规模语料库预训练的Transformer模型，具有强大的自然语言处理能力。研究人员发现，模型规模的增加可以提高模型性能，当模型参数规模超过一定程度时，LLMs不仅能够显著提高性能，还具有一些小型模型所不具备的特殊能力。文章介绍了LLMs的背景、主要技术和研究进展，特别关注LLMs的预训练、调整、利用和容量评估等四个方面，并对开发LLMs的可用资源和未来研究方向进行了总结。
